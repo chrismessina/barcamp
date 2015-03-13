@@ -1,0 +1,1 @@
+Various projects/code to support the BarCamp community.
